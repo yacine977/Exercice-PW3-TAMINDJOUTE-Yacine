@@ -1,0 +1,332 @@
+
+
+
+
+
+#entete {
+
+text-align: center;
+display: center;
+border: 2px solid #444;
+padding: 10px 50px 20px;
+color:black;
+background-color:white;
+background: green;
+
+margin:0;
+
+}
+
+
+
+.logos {
+
+float:left;
+  
+  }
+
+#demarche {
+
+  	float: right;
+  	background-color: black;
+    font-weight: bold;
+    padding: 10px 40px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 black;
+    
+}
+.entete2 {
+	color: white;
+	background-color: black; 
+}
+
+textarea:focus
+{
+
+	background-color: #77FF88;
+}
+
+a:active
+
+{
+	color:red; 
+}
+
+#contenu {
+
+margin-left :200px;
+}
+
+.figure {
+  
+  float: right;
+  width: 20%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+#actuu {
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	
+
+}
+
+.titre {
+	
+	font-family: arial;
+	text-align: center; 
+    background: linear-gradient(to right, black, #000);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+#main {
+
+	float: left;	
+	max-with:400px;
+	margin:auto;
+	background-color: black;
+	border: 2px solid #444;
+	font-family: arial;
+
+}
+
+.retrouver,.elementsf {
+
+font-family: arial;
+
+}  
+
+
+a
+{
+	color :white;
+}
+
+
+
+
+
+
+#form {
+
+display: none;
+
+}
+
+#contact:target #form {
+
+display: block;
+
+}
+
+.masquer{
+
+	display: none;
+}
+
+#contact:target .masquer {
+
+	display: inline;
+}
+
+#contact:target .afficher {
+
+	display: none;
+
+}
+
+
+input {
+	
+	
+	
+	background-color: red;
+    font-weight: bold;
+    padding: 10px 40px;
+    cursor: pointer; 
+    box-shadow: 0 8px 16px 0 gray;
+    color:white;
+
+
+}
+
+#liene{
+
+	
+
+	display: none;
+
+	
+}
+
+#liena:target #liene {
+
+	display: block;
+}
+
+
+.masquerr {
+	display: none;
+}
+
+#liena:target .masquerr {
+
+	display: inline;
+}
+
+#liena:target .afficherr {
+
+	display: none;
+}
+
+.afficherr {
+
+	color:black;
+}
+
+
+
+#lienee{
+
+	
+
+	display: none;
+	
+}
+
+#lienaa:target #lienee {
+
+	display: block;
+}
+
+
+.masquerrr {
+	display: none;
+}
+
+#lienaa:target .masquerrr {
+
+	display: inline;
+}
+
+#lienaa:target .afficherrr {
+
+	display: none;
+}
+
+
+
+#retrouvee {
+
+	
+
+	display: none;
+	
+}
+
+#retrouvea:target #retrouvee {
+
+	display: block;
+}
+
+
+.masquee {
+	display: none;
+}
+
+#retrouvea:target .masquee {
+
+	display: inline;
+}
+
+#retrouvea:target .affichi {
+
+	display: none;
+}
+
+.bb {
+
+	color:black;
+	font-size: 20;
+}
+
+
+
+
+
+#footer {
+	
+	
+	display: flex;
+	
+	flex-wrap: wrap;
+	justify-content: space-around;
+	color:white;
+	background: black ;
+	border: 2px solid #444;
+	clear: both;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
